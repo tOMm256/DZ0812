@@ -1,0 +1,12 @@
+.wrapper{
+    width: 200px;
+    height: 200px;
+}
+
+.accordion{
+    display: none;
+}
+
+.accordion.visible{
+    display: block;
+}
